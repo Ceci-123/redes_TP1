@@ -3,8 +3,6 @@
 </p>
 
 
-(assets/redes.jpg)
-
 # Trabajo práctico Teórico
 ## Programación sobre Redes
 ## Integrantes
