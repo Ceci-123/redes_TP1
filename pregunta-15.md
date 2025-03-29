@@ -45,6 +45,7 @@ Para mejorar escalabilidad, OSPF divide la red en áreas.
 ________________________________________
 
 🔹 **Tipos de Mensajes OSPF**
+
 📡 **Hello:** Descubre y mantiene vecinos.  
 📡 **DBD (Database Description):** Resume la LSDB.  
 📡 **LSR (Link-State Request):** Solicita información de la topología.  
