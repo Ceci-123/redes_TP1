@@ -1,4 +1,4 @@
-!(assets/redes.jpg)
+(assets/redes.jpg)
 
 # Trabajo práctico Teórico
 ## Programación sobre Redes
