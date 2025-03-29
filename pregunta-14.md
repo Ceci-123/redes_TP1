@@ -66,4 +66,4 @@ Imagina **tres switches conectados en un triángulo**. Sin STP, los datos podrí
 🔹 **Reactiva enlaces bloqueados** si hay fallos.  
 🔹 **RSTP es una versión más rápida y eficiente.**  
 
-STP es clave en redes con switches para evitar caos y mantener la estabilidad. 🚀  
+STP es clave en redes con switches para evitar caos y mantener la estabilidad.
