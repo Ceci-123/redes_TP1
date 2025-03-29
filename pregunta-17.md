@@ -33,5 +33,6 @@ Un **firewall** es un sistema de seguridad que controla y filtra el tráfico de 
 - **Protege contra ataques de hackers y malware.**
 - **Controla qué aplicaciones pueden acceder a internet.**
 - **Mejora la privacidad y seguridad en la red.**
+
 En resumen, un firewall es la primera línea de defensa en ciberseguridad, ayudando a mantener redes y dispositivos protegidos. 
 
