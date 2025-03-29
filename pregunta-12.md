@@ -73,4 +73,21 @@ Tecnologías móviles para comunicación de datos en dispositivos celulares.
 | **1G**     | 1980s  | 2.4 Kbps        | Solo llamadas analógicas. |
 | **2G (GSM, CDMA)** | 1990s  | 50 Kbps  | SMS y llamadas digitales. |
 | **3G (UMTS, HSPA)** | 2000s  | 2 Mbps  | Internet móvil básico. |
-| **4G (**
+ 4G (LTE, LTE-A) | 2010s  | 100 Mbps - 1 Gbps | Streaming HD, juegos en línea.               |
+| 5G          | 2020s  | 10 Gbps        | Baja latencia, IoT masivo, redes inteligentes.|
+
+✅ **5G** permite velocidades ultra rápidas y menor latencia para IA, IoT y realidad aumentada.
+
+---
+
+### 🎯 **Resumen General**
+
+| Tecnología    | Estándar          | Frecuencia             | Velocidad       | Uso                                |
+|---------------|-------------------|------------------------|-----------------|------------------------------------|
+| Wi-Fi         | IEEE 802.11       | 2.4/5/6 GHz            | Hasta 46 Gbps   | Redes domésticas y empresariales.  |
+| Bluetooth     | Bluetooth SIG     | 2.4 GHz                | Hasta 24 Mbps   | Accesorios y dispositivos personales.|
+| NFC           | ISO/IEC 18092     | 13.56 MHz              | Hasta 424 Kbps  | Pagos móviles, acceso seguro.      |
+| Zigbee/Z-Wave | IEEE 802.15.4     | 2.4 GHz / 868 MHz      | 100-250 Kbps    | IoT y automatización del hogar.    |
+| 5G/LTE        | 3GPP              | 700 MHz - 39 GHz       | Hasta 10 Gbps   | Internet móvil y redes inteligentes. |
+
+Cada una de estas tecnologías tiene su propósito y ventajas dependiendo de la aplicación.
