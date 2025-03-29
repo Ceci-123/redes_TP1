@@ -8,9 +8,10 @@ Una **DMZ** (Zona Desmilitarizada) en redes informáticas es un área de segurid
 
 En una arquitectura de red con DMZ, el firewall separa tres zonas principales:
 
-1️⃣ **Red interna (LAN):** La red privada y segura donde están los dispositivos de la empresa.  
-2️⃣ **DMZ:** Un área intermedia donde se ubican los servidores que necesitan acceso desde internet.
-2️⃣ **Red externa (WAN/Internet):** La red pública desde donde los usuarios externos acceden a los servicios.
+1 **Red interna (LAN):** La red privada y segura donde están los dispositivos de la empresa.  
+2 **DMZ:** Un área intermedia donde se ubican los servidores que necesitan acceso desde internet.
+
+3 **Red externa (WAN/Internet):** La red pública desde donde los usuarios externos acceden a los servicios.
 
 El firewall controla el tráfico entre estas zonas, permitiendo conexiones desde internet solo a la DMZ y restringiendo el acceso directo a la red interna.
 
