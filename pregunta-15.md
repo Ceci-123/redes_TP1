@@ -11,6 +11,7 @@ OSPF (**Open Shortest Path First**) es un protocolo de enrutamiento dinámico qu
 ✅ Divide la red en **áreas** para mejorar el rendimiento.  
 ✅ **Convergencia rápida** (se adapta rápidamente a cambios).  
 ✅ Soporta **VLSM** y **CIDR** (permite sumarización de rutas).
+
 ✅ Evita bucles sin necesidad de límite de saltos como RIP.
 ________________________________________
 
