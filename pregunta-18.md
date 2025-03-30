@@ -16,6 +16,7 @@ En una arquitectura de red con DMZ, el firewall separa tres zonas principales:
 El firewall controla el tráfico entre estas zonas, permitiendo conexiones desde internet solo a la DMZ y restringiendo el acceso directo a la red interna.
 
 🔥 **¿Por qué usar una DMZ?**
+
 ✔ **Mayor seguridad:** Si un atacante compromete un servidor en la DMZ, aún no tiene acceso directo a la red interna.  
 ✔ **Protección de datos sensibles:** La LAN sigue siendo inaccesible para usuarios externos.  
 ✔ **Mejor control del tráfico:** Se pueden aplicar reglas específicas de acceso y filtrado.
