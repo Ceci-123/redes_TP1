@@ -24,4 +24,4 @@ Los dispositivos en Internet se identifican con direcciones IP, pero recordar es
 ✅ **Mejora la seguridad con filtros de phishing o malware**  
 ✅ **Es clave para el funcionamiento de Internet**  
 
-Sin el DNS, navegar en Internet sería como recordar los números de teléfono de todos tus contactos en vez de usar sus nombres. 📱🌐  
+Sin el DNS, navegar en Internet sería como recordar los números de teléfono de todos tus contactos en vez de usar sus nombres. 
