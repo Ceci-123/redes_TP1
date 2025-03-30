@@ -2,6 +2,9 @@
 
 ## 1. SMTP (Simple Mail Transfer Protocol)
 ![Proceso SMTP](assets/smtp-process.png)  
+**Descripción**:  
+Protocolo estándar para el **envío** de correos electrónicos entre servidores. Opera en puerto 25 (no cifrado), 587 (con autenticación) o 465 (SSL/TLS).
+
 **Proceso:**  
 1. **Composición**: Creas el correo y haces clic en "Enviar".  
 2. **Envío**: Tu cliente de correo se conecta al servidor SMTP y envía el email.  
