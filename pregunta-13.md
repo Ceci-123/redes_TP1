@@ -22,7 +22,7 @@ Un **proxy** es un servidor que actúa como intermediario entre tu dispositivo e
 ---
 
 ## 🔹 Ejemplo de cómo funciona un proxy  
-1️⃣ Tú solicitas `www.ejemplo.com`.  
+1️⃣ Solicitas `www.ejemplo.com`.  
 2️⃣ Tu dispositivo envía la petición al proxy.  
 3️⃣ El proxy la reenvía al sitio web usando su propia IP.  
 4️⃣ El sitio web responde al proxy.  
