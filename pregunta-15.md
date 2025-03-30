@@ -38,8 +38,11 @@ ________________________________________
 Para mejorar escalabilidad, OSPF divide la red en áreas.
 
 • **Área 0 (Área Backbone):** Centro de la red, todos los demás deben conectarse a ella.
+
 • **Áreas normales:** Conectadas al área 0, reducen el tamaño de las tablas de enrutamiento.
+
 • **Áreas Stub y Totally Stubby:** Reducen la cantidad de rutas intercambiadas.
+
 • **Área NSSA (Not-So-Stubby Area):** Similar a Stub, pero permite rutas externas.
 
 ________________________________________
