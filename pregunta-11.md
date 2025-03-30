@@ -4,7 +4,7 @@
 El servicio de **DNS** (*Domain Name System*) es un sistema que traduce nombres de dominio (como `google.com`) en direcciones IP (como `142.250.190.46`), permitiendo que los dispositivos se comuniquen en la red sin necesidad de recordar números complicados.  
 
 ### 🔹 ¿Para qué sirve?  
-Los dispositivos en Internet se identifican con direcciones IP, pero recordar esas direcciones sería un dolor de cabeza. El DNS hace que podamos usar nombres fáciles de recordar en lugar de IPs.  
+Los dispositivos en Internet se identifican con direcciones IP, pero recordar esas direcciones sería un problema. El DNS hace que podamos usar nombres fáciles de recordar en lugar de IPs.  
 
 ### 🔹 ¿Cómo funciona?  
 1. **Consulta:** Cuando escribes `google.com` en el navegador, tu dispositivo pregunta al servidor DNS cuál es la IP de ese dominio.  
