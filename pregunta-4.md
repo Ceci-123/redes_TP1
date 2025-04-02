@@ -19,3 +19,21 @@ A pesar de su simplicidad, los Hubs presentan algunos inconvenientes:
 - **Colisiones de datos**: Mientras se realiza una transmisión, **ningún otro equipo puede enviar datos** hasta que la transmisión termine.
 
 ![Descripcion de la imagen](assets/hub3.png)
+
+## Repetidor
+
+El **Repetidor** es un dispositivo electrónico que **conecta dos segmentos de una misma red**, transfiriendo el tráfico de uno a otro extremo, ya sea por **cable o inalámbrico**.
+
+### Funcionamiento de un Repetidor
+
+- Los segmentos de red son **limitados en su longitud**. En el caso de cable, generalmente **no superan los 100 metros**, debido a la pérdida de señal y la generación de ruido en las líneas.
+- Un **Repetidor** evita este problema al **reconstruir la señal**, eliminando los ruidos y transmitiéndola de un segmento al otro.
+
+### Uso en Redes Inalámbricas
+
+- Actualmente, los **Repetidores** son muy populares en redes **inalámbricas o WiFi**.
+- Un **Repetidor WiFi** amplifica la señal de la red **LAN inalámbrica** desde el **router** hasta el **ordenador u otro dispositivo**.
+- Opera en la **capa 1 (física) del modelo OSI**, lo que significa que solo **retransmite** la señal sin analizar su contenido.
+
+- ![Descripcion de la imagen](assets/repeater.jpg)
+
