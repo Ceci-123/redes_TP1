@@ -58,3 +58,20 @@ Los **routers modernos** incluyen:
 El **nombre "Router"** proviene de su función de **enrutar** los paquetes de datos de una red a otra para llevarlos a su destino final.
 
 ![Descripcion de la imagen](assets/router2.png)
+
+## Switch
+
+Los **Switch** son los hermanos listos de los **Hub**, y también se utilizan para la **creación de redes locales**.
+
+### Funcionamiento de un Switch
+
+- La principal diferencia con el Hub es que **la información enviada por el ordenador de origen va directamente al ordenador de destino** sin replicarse en el resto de equipos conectados.
+- Esto permite que la red **no quede limitada**, ya que mientras se envían datos a un ordenador, otros equipos pueden también comunicarse simultáneamente.
+- Sin embargo, si **dos o más ordenadores intentan enviar datos al mismo destino al mismo tiempo**, se produce una limitación.
+
+### Ventajas del Switch
+
+- Se diseñó para **trabajar con redes más grandes** que el Hub.
+- **Mejora la comunicación**, reduciendo errores en las redes locales.
+
+- ![Descripcion de la imagen](assets/switch.png)
