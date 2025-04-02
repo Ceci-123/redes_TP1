@@ -13,3 +13,5 @@ En una **VLAN**, los dispositivos comparten una misma infraestructura, pero se c
 Además, las **VLAN** crean **dominios de difusión lógicos** que pueden abarcar varios segmentos LAN físicos, mejorando el rendimiento al dividir grandes dominios de difusión en otros más pequeños. 
 
 Los administradores pueden implementar **políticas de acceso y seguridad específicas** para grupos de usuarios, simplificando la administración de la red.
+
+![Descripcion de la imagen](assets/Descripcion-General-de-las-VLAN.jpg)
