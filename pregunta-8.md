@@ -27,3 +27,5 @@ En la mayoría de los casos, las *Wide Area Networks* suelen pertenecer a una or
 Una red global como Internet recibe el nombre de *Global Area Network* (GAN), sin embargo no es la única red de ordenadores de esta índole. Las empresas que también son activas a nivel internacional mantienen redes aisladas que comprenden varias redes WAN y que logran, así, la comunicación entre los ordenadores de las empresas a nivel mundial. 
 
 Las redes GAN utilizan la infraestructura de fibra de vidrio de las redes de área amplia (*Wide Area Networks*) y las agrupan mediante cables submarinos internacionales o transmisión por satélite.
+
+![Descripcion de la imagen](assets/tiposderedes.webp)
