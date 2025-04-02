@@ -9,3 +9,5 @@ Una **VPN** oculta su verdadera dirección **IP** al permitirle a la red redirec
 - Su **Proveedor de Servicios de Internet (ISP)** y otros terceros **no pueden ver** los sitios web que visita o qué datos envía y recibe en línea.
 - Una VPN funciona como un **filtro** que convierte todos sus datos en **texto incomprensible**.
 - Si alguien logra interceptar su información, **de nada le sirve**.
+
+- ![Descripcion de la imagen](assets/vpn.webp)
