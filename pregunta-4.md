@@ -37,3 +37,24 @@ El **Repetidor** es un dispositivo electrónico que **conecta dos segmentos de u
 
 - ![Descripcion de la imagen](assets/repeater.jpg)
 
+## Router
+
+El **Router** se encarga de **reenviar paquetes de datos** entre distintas redes, por lo general una **red local (LAN)** y una **red externa (WAN)**, como la conexión a Internet.
+
+### Funcionamiento de un Router
+
+- Los routers incluyen un **Switch (o Hub)** de entre 4 y 8 puertos **Ethernet** para conectar varios dispositivos.
+- Su función principal es **enrutar los paquetes** de información entre redes, asegurando que lleguen a su destino.
+- Permite la conexión a **Internet** y la interconexión de **redes locales** con otras redes externas.
+
+### Características Adicionales
+
+Los **routers modernos** incluyen:
+
+- **Firewall basado en hardware** para proteger la red de ataques **DDoS** y otras amenazas.
+- **Funciones avanzadas de gestión de tráfico**, como **QoS (Quality of Service)**.
+- **Conectividad inalámbrica (WiFi)** integrada.
+
+El **nombre "Router"** proviene de su función de **enrutar** los paquetes de datos de una red a otra para llevarlos a su destino final.
+
+![Descripcion de la imagen](assets/router.png)
