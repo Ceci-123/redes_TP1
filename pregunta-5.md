@@ -14,4 +14,4 @@ En la actualidad, algunos protocolos de comunicación admiten el reconocimiento
 de mensajes y la compresión de datos, lo cual permite una comunicación de red
 muy confiable y con alto rendimiento.
 
-![Descripcion de la imagen](assets/protocolos-de-comunicacion.jpg)
+![Descripcion de la imagen](assets/protocolosdecomunicacion.jpg)
