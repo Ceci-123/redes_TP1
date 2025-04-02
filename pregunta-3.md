@@ -12,3 +12,5 @@ Es posible que la memoria del ordenador y los recursos de almacenamiento local *
 - **Velocidad y rendimiento** adecuados para aplicaciones empresariales.
 
 Por lo tanto, la mayoría de las organizaciones emplean algún tipo de **SAN**, además del **almacenamiento conectado a la red (NAS)**, para mejorar la **eficiencia** y la **gestión de datos**.
+
+![Descripcion de la imagen](assets/sann.PNG)
