@@ -20,4 +20,4 @@ NetBIOS permite que las computadoras se encuentren y se comuniquen entre sí en 
 
 La siguiente figura muestra una relación entre los protocolos NetBIOS y TCP/IP en relación al modelo de las 7 capas.
 
-![Descripcion de la imagen](assets/tcpip y netbios.png)
+![Descripcion de la imagen](assets/tcpip-y-netbios.png)
