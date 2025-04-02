@@ -57,4 +57,4 @@ Los **routers modernos** incluyen:
 
 El **nombre "Router"** proviene de su función de **enrutar** los paquetes de datos de una red a otra para llevarlos a su destino final.
 
-![Descripcion de la imagen](assets/router.png)
+![Descripcion de la imagen](assets/router2.png)
