@@ -18,3 +18,5 @@ En la formación clásica de TCP nos encontramos con seis *flags* principales:
 - **RST**
 - **PSH**
 - **URG**
+
+![Descripcion de la imagen](assets/datagrama.jpeg)
