@@ -18,3 +18,4 @@ A pesar de su simplicidad, los Hubs presentan algunos inconvenientes:
 - **Gasto de ancho de banda**: No permite enviar datos a un único ordenador sin replicarlos al resto.
 - **Colisiones de datos**: Mientras se realiza una transmisión, **ningún otro equipo puede enviar datos** hasta que la transmisión termine.
 
+![Descripcion de la imagen](assets/hub3.png)
