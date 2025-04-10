@@ -17,4 +17,5 @@ Realizar el siguiente cuestionario online y copiar el resultado (1 por cada inte
 
 **Integrante: [Facundo Bartolome]:** 
 
-**Integrante: [Sheila Munhos]:** 
+**Integrante: [Sheila Muñoz]:**
+*![Resultado del cuestionario](assets/resultado-munoz.png)* 
