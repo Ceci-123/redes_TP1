@@ -14,7 +14,7 @@
 - Técnico de redes, administrador de infraestructura.  
 **Certificaciones**:  
 - **CCNA R&S** (ahora parte del CCNA unificado).  
-- **CCNP Enterprise** (nivel profesional).  
+- **CCNP** (nivel profesional).  
 **Tecnologías cubiertas**:  
 - Redes LAN/WAN, IPv4/IPv6, SD-Access (evolución hacia redes definidas por software).  
 
