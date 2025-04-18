@@ -2,12 +2,12 @@
   <img src="assets/redes.jpg" alt="Logo de Redes en el mundo">
 </p>
 
-# 🎮 Adivina Adivinador - Juego Interactivo  
+# 📚 Trabajo Práctico Teórico
+## **📡 Programación sobre Redes**
 
-✨ **¡Un juego divertido para poner a prueba tu intuición!** ✨  
+## 🎮 Adivina Adivinador - Juego Interactivo  
 
-## 📚 Trabajo Práctico Teórico  
-### **📡 Programación sobre Redes**  
+### ✨ **¡Un juego divertido para poner a prueba tu intuición!** ✨   
 
 ## 👥 Integrantes  
 * **Facundo Bartolomé**  
@@ -21,7 +21,7 @@
 
 ## 📝 Descripción  
 🔍 **¿Podrás adivinar correctamente?**  
-Un juego interactivo creado con Genially para la materia **Programación sobre Redes**, donde pondrás a prueba tus habilidades de deducción.  
+Un juego interactivo creado con Genially para la materia **Programación sobre Redes**.  
 
 ## 📌 ¿Cómo jugar?  
 1. Haz clic en **"Jugar ahora"**  
