@@ -31,6 +31,6 @@
 ---
 
 ## **d. Elección de enlace para escenarios:**  
-1. **Call centers con data center central**: **MPLS** (por performance y seguridad).  
+1. **Call centers con data center central**: **MPLS** (por eficiencia y seguridad).  
 2. **Pozos petroleros (15 min/día)**: **VSAT** (por cobertura en zonas remotas).  
 3. **Edificios enfrentados**: **Microondas** (línea de vista y bajo costo).  
